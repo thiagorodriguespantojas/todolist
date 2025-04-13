@@ -10,7 +10,6 @@ public class MinhaPrimeiraController {
 
     @GetMapping
     public String olaMundo() {
-        return "Olá mundo! Essa é minha primeira rota Spring Boot!";
+        return "Seja bem-vindo ao treinamento da Rocketseat by Thiago Pantoja 🚀";
     }
 }
-// package br.com.thiagopantoja.todolist.Controller;
